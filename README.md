@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Dior</h1>
-<h3 align="center">primary focus is Cybersecurity | secondary focus is Data Science | tertiary focus is AI |<</h3>
+<h3 align="center">Red Teaming | Blue Teaming </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
